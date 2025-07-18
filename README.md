@@ -40,6 +40,7 @@ Hey there! 👋 I'm Tino, a cybersecurity enthusiast dedicated to understanding,
     <img src="https://img.shields.io/badge/-Tines-1996D7?&style=for-the-badge&logo=tines&logoColor=white" />
     <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-D81E05?&style=for-the-badge&logo=redhat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-5C8BFF?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Square%20X-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Objective
