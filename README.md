@@ -5,21 +5,27 @@ Hey there! 👋 I'm Tino, a cybersecurity enthusiast dedicated to understanding,
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/e2d47693-d0c9-40b8-8c21-5f2ab469acab/public_url">
+ 
+<a href="https://www.credly.com/badges/671bf098-56f9-4649-8899-8b93adcb32c4/public_url">
  <img src="https://img.shields.io/badge/-CySA%2B-244A8A?style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
+ 
 <a href="https://www.credly.com/badges/e2d47693-d0c9-40b8-8c21-5f2ab469acab/public_url">
  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
+
 <a href="https://www.credly.com/badges/ee31939e-3197-4d82-95af-3e833bf9542e/public_url">
  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
+
 <a href="https://www.credly.com/badges/84ce5d6e-6f94-475c-ade6-e256b028287d/public_url">
  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
+
 <a href="https://www.credly.com/badges/5cb2086e-6033-40b9-a16f-da7d1b3c4938/public_url">
  <img src="https://img.shields.io/badge/-ITF%2B-5B2C6F?style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
+
 </div>
 
 ## Tools
