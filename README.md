@@ -46,7 +46,6 @@ Hey there! 👋 I'm Tino, a cybersecurity enthusiast dedicated to understanding,
 My journey in I.T has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) and help in any way that i can.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
