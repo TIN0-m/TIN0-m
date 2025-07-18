@@ -1,6 +1,4 @@
 # Hello, I'm Tinotenda
-<a href="https://www.linkedin.com/in/tinotenda/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 Hey there! 👋 I'm Tino, a cybersecurity enthusiast dedicated to understanding, identifying, and mitigating digital threats. This GitHub space is where I showcase my hands-on projects in Risk Management, Incident Response, Security Automation and Cloud Security Configurations. My goal is to build robust defenses and contribute to a more secure digital landscape. Dive into my repositories to see how I'm putting theory into practice!
 
 ## Certifications
