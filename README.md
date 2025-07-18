@@ -32,13 +32,14 @@ Hey there! 👋 I'm Tino, a cybersecurity enthusiast dedicated to understanding,
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-blue?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-orange?&style=for-the-badge&logo=limacharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-272E3F?&style=for-the-badge&logo=thehive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Active%20Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tines-1996D7?&style=for-the-badge&logo=tines&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Atomic%20Red%20Team-D81E05?&style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-5C8BFF?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
 ## Objective
