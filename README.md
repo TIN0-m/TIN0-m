@@ -46,13 +46,13 @@ Hey there! 👋 I'm Tino, a cybersecurity enthusiast dedicated to understanding,
 My journey in I.T has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) and help in any way that i can.
 
 ## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Phising Emails and Packet Analysis             | <a href="https://github.com/TIN0-m/ANZ-Forage-Simulation/blob/main/README.md">Project</a>|
-| IAM policy and IAM organisation implementation | <a href="https://github.com/TIN0-m/TATA-Forage-Simulation/tree/main">Project</a>|
-| Risk Assessment                                | <a href="https://github.com/TIN0-m/DATA.COM-Forage-simulation">Project</a>|
-| Incident Response Planning and Execution       | SOC Automation Lab|
+## Press the word "Project" under "Associated Project" to get the step by step guide
+| Skill                                         | Associated Project         | Description |
+|-----------------------------------------------|----------------------------|-------------|
+| Simulation of an entire enterprise environment | <a href="https://github.com/TIN0-m/Home-Lab"> Project </a>| **Architected and deployed** a segmented VPC environment including Public, Enterprise, SOC Tooling and Management subnets to simulate a corporate IT and security infrastructure|
+| Phising Emails and Packet Analysis             | <a href="https://github.com/TIN0-m/ANZ-Forage-Simulation/blob/main/README.md">Project</a>| **Investigated** phishing campaign samples identifying malicious Email headers and links and reported key indicators in a well written document. **Analysed** a PCAP file using Wireshark to identify network activity then HxD hex convertor to translate pictures, ZIP files and messages and documented findings. | 
+| IAM policy and IAM organisation implementation | <a href="https://github.com/TIN0-m/TATA-Forage-Simulation/tree/main">Project</a>| **Evaluated** an enterprises IAM strategy for different organizational contexts and tailored a solution specific to their requirements then implanted the plan for a hypothetical scenario.|
+| Incident Response and Risk Assessment                                | <a href="https://github.com/TIN0-m/DATA.COM-Forage-simulation">Project</a>| **Investigated** a simulated attack by an APT (APT34). Showing their TTPs and recommending a cyber strategy to limit these attacks. The strategy involved device hardening and so forth, while being well documented on how to do so. **Conducted** a risk assessment for a hypothetical business scenario, identifying critical assets, threats, vulnerabilities and recommending mitigation strategies.|
 | Case Management with TheHive                   | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
