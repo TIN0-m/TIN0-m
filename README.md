@@ -49,11 +49,11 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Phising Emails and Packet Analysis             | <a href="https://github.com/TIN0-m/ANZ-Forage-Simulation/blob/main/README.md>Project</a>|
+| IAM policy and IAM organisation implementation | <a href="https://github.com/TIN0-m/TATA-Forage-Simulation/tree/main">Project</a>|
+| Risk Assessment                                | <a href="SOC Automation Lab](https://github.com/TIN0-m/DATA.COM-Forage-simulation">Project </a>|
+| Incident Response Planning and Execution       | SOC Automation Lab|
+| Case Management with TheHive                   | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
