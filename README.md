@@ -53,10 +53,3 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 | Phising Emails and Packet Analysis             | <a href="https://github.com/TIN0-m/ANZ-Forage-Simulation/blob/main/README.md">Project</a>| **Investigated** phishing campaign samples identifying malicious Email headers and links and reported key indicators in a well written document. **Analysed** a PCAP file using Wireshark to identify network activity then HxD hex convertor to translate pictures, ZIP files and messages and documented findings. | 
 | IAM policy and IAM organisation implementation | <a href="https://github.com/TIN0-m/TATA-Forage-Simulation/tree/main">Project</a>| **Evaluated** an enterprises IAM strategy for different organizational contexts and tailored a solution specific to their requirements then implanted the plan for a hypothetical scenario.|
 | Incident Response and Risk Assessment                                | <a href="https://github.com/TIN0-m/DATA.COM-Forage-simulation">Project</a>| **Investigated** a simulated attack by an APT (APT34). Showing their TTPs and recommending a cyber strategy to limit these attacks. The strategy involved device hardening and so forth, while being well documented on how to do so. **Conducted** a risk assessment for a hypothetical business scenario, identifying critical assets, threats, vulnerabilities and recommending mitigation strategies.|
-| Case Management with TheHive                   | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-
-## Projects
-- Detection Lab
-- SOC Automation Project
